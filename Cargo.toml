@@ -1,6 +1,6 @@
 [package]
 name = "math_l"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 authors = ["Ai, Zixun (aiz@uci.edu)"]
 license = "MIT"
