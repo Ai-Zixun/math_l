@@ -1,0 +1,9 @@
+[package]
+name = "math_l"
+version = "0.0.1"
+edition = "2021"
+authors = ["Ai, Zixun (aiz@uci.edu)"]
+license = "MIT"
+description = "Math Functions for LeetCode"
+
+[dependencies]
